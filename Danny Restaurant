@@ -1,0 +1,17 @@
+/* Project Description
+Danny wants to use the data to answer a few simple questions about hia customers,especially about their visiting pg patterns;
+- how much money they have spent
+- which menu items are their favourites.
+
+Having all these deeper connectionswith his customerswill help him deliver a better and more personalized experience for his loyal customers.
+
+-- CREATING A DATABASE FOR THE TABLES
+CREATE DATABASE FedanProject
+
+-- CREATING A SCHEMA FOR THE TABLES
+CREATE SCHEMA Danny
+
+-- CREATING TABLES
+CREATE TABLE Danny.sales(customer_id Varchar(1),order_date(DATE), product_id(INT).
+
+
